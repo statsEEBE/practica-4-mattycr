@@ -40,5 +40,5 @@ plot(t,pexp(t,25),type="l",col="red") #F(t)
   #pexp=F(x)
   #rexp=simulacion
 mean(rexp(500000, 25))
-#en otras palabras, pregunta por E[X] = 1/lambda
+#en otras palabras, en este caso pregunta por E[X] = 1/lambda
 1/25
